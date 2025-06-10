@@ -12,3 +12,4 @@ git push                     # trimiterea commit-ului pe server
 
 # comenzi de status
 git --version                # citeste versiunea de git actuala instalata
+git status                   # verifica statusul fisierilor daca au fost modificate, adaugate altele noi, sterse 
