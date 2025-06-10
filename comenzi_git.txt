@@ -1,0 +1,4 @@
+
+# navigare
+pwd                 # print working directory
+ls                  # list - listeaza fisierile din folderul curent
